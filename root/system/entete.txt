@@ -1,0 +1,6 @@
+Winux version A.2.4.0, Copyright (C) 2002-2003 Winux Team 
+Winux comes with ABSOLUTELY NO WARRANTY
+This is free software, and you are welcome to redistribute it under certain conditions; read the following licence for details.
+Winux version A.2.4.0, Copyright (C) 2002-2003 Winux Team
+Winux est fourni sans AUCUNE GARANTIE.
+Ce programme est libre et vous êtes encouragé à le redistribuer sous certaines conditions; veuillez lire la licence suivante pour plus de détails.
